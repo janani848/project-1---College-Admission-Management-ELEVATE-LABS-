@@ -1,6 +1,4 @@
 # ELEVATE LABS - PROJECT -1 COLLEGE ADMISSION MANAGEMENT 
-Certainly! Here's a professional, concise, and neatly formatted version of the README content for your College Admission Management System project:
-
 College Admission Management System
 Overview
 A Java console application that simulates the college admission process by managing student registrations, merit calculations, admission assignments, and result display. It demonstrates core Java, JDBC, and database integration (SQLite/MySQL).
