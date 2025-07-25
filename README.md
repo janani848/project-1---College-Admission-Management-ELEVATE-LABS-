@@ -1,4 +1,4 @@
-# project-1---College-Admission-Management-ELEVATE-LABS-
+# ELEVATE LABS - PROJECT -1 COLLEGE ADMISSION MANAGEMENT 
 Certainly! Here's a professional, concise, and neatly formatted version of the README content for your College Admission Management System project:
 
 College Admission Management System
